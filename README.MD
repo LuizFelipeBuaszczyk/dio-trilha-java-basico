@@ -57,3 +57,16 @@ Azure Cache for Redis: Cache de dados na memória, de código aberto, para aplic
 ## 9. AI/Machine Learning
 - Azure Machine Learning: Plataforma completa para construir, treinar, implantar e gerenciar modelos de machine learning.
 - Azure Cognitive Services: Coleção de APIs e SDKs que permitem adicionar recursos inteligentes de IA a aplicações, como visão computacional, fala, linguagem, tomada de decisão e pesquisa.
+
+# Resumo Inteligencia artificial
+A inteligência artificial (IA) é um campo da ciência da computação que desenvolve sistemas capazes de simular capacidades humanas como raciocínio, aprendizado, percepção e tomada de decisões. Utilizando algoritmos, redes neurais e grandes volumes de dados, a IA pode reconhecer padrões, resolver problemas complexos, automatizar tarefas e interagir com humanos por meio de linguagem natural ou visão computacional. Presente em áreas como saúde, finanças, indústria e comunicação, a IA está transformando a forma como vivemos e trabalhamos, ao mesmo tempo que levanta desafios éticos e sociais sobre privacidade, emprego e responsabilidade algorítmica.
+
+## Principais Funcionalidades do Language Studio
+- Análise de Sentimentos: Detecta emoções em textos (positivo, negativo, neutro, misto). Ideal para feedbacks, análises de redes sociais e atendimento ao cliente.
+- Extração de Entidades Nomeadas (NER): Identifica pessoas, locais, organizações, datas, valores monetários e outras entidades em textos.
+- Reconhecimento e Compreensão de Texto (Text Analytics): Extrai automaticamente frases-chave e detecta o idioma do texto.
+- Classificação de Texto Personalizada (Custom Text Classification): Permite treinar modelos para classificar textos em categorias definidas pelo usuário.
+- Extração de Entidades Personalizadas (Custom NER): Treinamento de modelos para reconhecer entidades específicas de domínio (ex: produtos, códigos internos, etc.).
+- QnA Maker / Knowledge Base: Criação de bases de conhecimento com perguntas e respostas, que podem ser integradas a chatbots.
+- Tradução de Texto (Translator): Integra-se ao serviço de tradução do Azure para traduzir textos entre dezenas de idiomas.
+- Language Detection: Detecta automaticamente o idioma de textos fornecidos.
